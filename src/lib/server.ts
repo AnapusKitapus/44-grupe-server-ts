@@ -23,7 +23,8 @@ server.httpServer = http.createServer((req: IncomingMessage, res: ServerResponse
             <title>Document</title>
             </head>
             <body>
-                Home page
+                <h1>Hello :)</h1>
+                <img src="#" alt="Image">
             </body>
             </html>`;
     }
